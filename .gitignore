@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+npm-debug.log
+.vscode
+.coveralls.yml
+dist/build.js
+dist/build.js.map
+test/unit/coverage
+yarn-debug.log*
+yarn-error.log*
+.idea
